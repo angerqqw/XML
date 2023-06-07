@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <root>
-	<Employee name ="Ivan Ivanov">
-		<Age>30</Age>
+	<Employee name ="Viktor Viktorovich">
+		<Age>28</Age>
 		<Programmer>False</Programmer>
 	</Employee>
 
-	<Employee name ="Danil Maliy">
-		<Age>22</Age>
+	<Employee name ="Sergey Sergeevichy">
+		<Age>20</Age>
 		<Programmer>False</Programmer>
 	</Employee>
 
-	<Employee name ="Irina Fursova">
-		<Age>27</Age>
+	<Employee name ="Irina Mironova">
+		<Age>26</Age>
 		<Programmer>True</Programmer>
 	</Employee>
 
-	<Employee name ="Petr Petrov">
-		<Age>27</Age>
+	<Employee name ="Petr Crap">
+		<Age>25</Age>
 		<Programmer>True</Programmer>
 	</Employee>
 </root>
